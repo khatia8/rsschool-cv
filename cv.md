@@ -5,7 +5,7 @@
 * Adress: Tbilisi, krtsanisi street,15-17
 * Phone: +995557088088
 * E-mail: khpasikashvili@gmail.com
-* Github: Khatia8
+* Github: [khatia8](https://github.com/khatia8)
 
 ## About myself:
 
