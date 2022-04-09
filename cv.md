@@ -6,3 +6,10 @@
 * Phone: +995557088088
 * E-mail: khpasikashvili@gmail.com
 * Github: Khatia8
+
+##About myself:
+* I want to learn Front-End Development in RSSchool.
+ 
+##Work experience:
+
+* ***Nothing relevant yet***
