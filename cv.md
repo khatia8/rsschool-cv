@@ -13,3 +13,11 @@
 ##Work experience:
 
 * ***Nothing relevant yet***
+
+##Education and courses:
+* Tbilisi state university: Business Administration
+
+##Languages:
+* **English:** B2
+* **German:** A1
+* **Georgian:** Native
