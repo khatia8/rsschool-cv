@@ -1,16 +1,17 @@
-#Khatia Pasikashvili
-##My contact info
+# Khatia Pasikashvili
 
+## My contact info
 
 * Adress: Tbilisi, krtsanisi street,15-17
 * Phone: +995557088088
 * E-mail: khpasikashvili@gmail.com
 * Github: Khatia8
 
-##About myself:
+## About myself:
+
 * I want to learn Front-End Development in RSSchool.
 
-##Code Examples:
+## Code Examples:
 
 ```
 <!DOCTYPE html>
@@ -26,14 +27,16 @@
 </html>
 ```
  
-##Work experience:
+## Work experience:
 
 * ***Nothing relevant yet***
 
-##Education and courses:
+## Education and courses:
+
 * Tbilisi state university: Business Administration
 
-##Languages:
+## Languages:
+
 * **English:** B2
 * **German:** A1
 * **Georgian:** Native
