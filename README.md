@@ -1,1 +1,1 @@
-# rsschool-cv
+https://khatia8.github.io/rsschool-cv
